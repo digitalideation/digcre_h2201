@@ -1,4 +1,4 @@
-![di logo](https://raw.githubusercontent.com/digitalideation/comppx_h2001/master/docs/assets/images/di-logo-small.jpg "di logo")
+![di logo](https://github.com/digitalideation/comppx_h2001/blob/master/docs/assets/images/di-logo-small.jpg?raw=true "di logo")
 
 
 # Computer Perception Extended - Winter 2020
