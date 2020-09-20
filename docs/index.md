@@ -4,7 +4,7 @@ title: "Intro"
 ---
 
 
-# Computer Perception Extended - Winter 2019
+# Computer Perception Extended - Winter 2020
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/digideation)
@@ -23,32 +23,41 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Schedule
 
-#### Week 01: [Content](./content/week01.html) - [Slides](./slides/week01.html)
+#### Week 01: 
++ HSLU AI Autumn session 01 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: remote session :warning:)_
+
+#### Week 02: 
++ HSLU AI Autumn session 02 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: remote session :warning:)_
+
+#### Week 03: 
++ HSLU AI Autumn session 03 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: remote session :warning:)_
+
+#### Week 04: [Content](#) - [Slides](#)
 + Intro: General 
 + ML / AI / DL: History & Example
 + Tools: Keras, TFJS, ML5JS, etc...
 
-#### Week 02: [Content](./content/week02.html) - [Slides](./slides/week02.html)
+#### Week 05: [Content](#) - [Slides](#)
 + Students intro
 + Inner working of a Neural Network
 + Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
-#### Week 03: [Content](./content/week03.html) - [Slides](./slides/week03.html)
+#### Week 06: [Content](#) - [Slides](#)
 + Machine Learning Project Checklist
 + Creating a dataset
 
-#### Week 04: [Content](./content/week04.html) - [Slides](./slides/week04.html)
+#### Week 07: [Content](#) - [Slides](#)
 + Machine Learning for computer vision (ConvNets)
 
-#### Week 05
+#### Week 08
 + Testing RunwayML
 
-#### Week 06 [Content](./content/week06.html) - [Slides](./slides/week06.html)
+#### Week 09 [Content](#) - [Slides](#)
 + Projects dicussion
 + Machine Learning for computer vision (ConvNets)
 + Generative models: LSTM, RNN
 
-#### Week 07
+#### Week 10
 + Machine Learning Project Checklist
 + Remote GPU
 + Deploying your models
@@ -56,7 +65,7 @@ Once we get a good grasp of the different techniques, we will experiment further
   + Tensorflow.js
   + Python API
 
-#### Week 08 [Content](./content/week08.html) - [Slides](./slides/week08.html)
+#### Week 11 [Content](#) - [Slides](#)
 + Generative models: Deep Dream, Style Transfer, VAE, GAN.
 
 
@@ -85,7 +94,7 @@ If you don’t have a code editor, please install one. Some suggestions (in no p
 #### Web server
 We need a simple web server to run the experiments locally. Some suggestions 
 - If you have node.js/npm installed you can use _live-server_: `npm install -g live-server`
-- [Other recommended options](https://github.com/processing/p5.js/wiki/Local-server)
+- [Other recommended options](https://github.com/digitalideation/hslu-ml-workshop#web-server)
 
 #### Tensorflow.js
 A **JavaScript** library with a more advanced set of options, also for the web.
