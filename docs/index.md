@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Intro" 
+title: "Main" 
 ---
 
 
@@ -24,13 +24,13 @@ Once we get a good grasp of the different techniques, we will experiment further
 ## Schedule
 
 #### Week 01: 
-+ HSLU AI Autumn session 01 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: remote session :warning:)_
++ HSLU AI Autumn session 01 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: [remote session](https://hslu.zoom.us/j/5610491768?pwd=WUZlWkRSZjdIWTh3N0FTZjlidEg2Zz09) :warning:)_
 
 #### Week 02: 
-+ HSLU AI Autumn session 02 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: remote session :warning:)_
++ HSLU AI Autumn session 02 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: [remote session](https://hslu.zoom.us/j/5610491768?pwd=WUZlWkRSZjdIWTh3N0FTZjlidEg2Zz09) :warning:)_
 
 #### Week 03: 
-+ HSLU AI Autumn session 03 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: remote session :warning:)_
++ HSLU AI Autumn session 03 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: [remote session](https://hslu.zoom.us/j/5610491768?pwd=WUZlWkRSZjdIWTh3N0FTZjlidEg2Zz09) :warning:)_
 
 #### Week 04: [Content](#) - [Slides](#)
 + Intro: General 
