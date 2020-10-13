@@ -32,41 +32,32 @@ Once we get a good grasp of the different techniques, we will experiment further
 #### Week 03: 
 + HSLU AI Autumn session 03 :fallen_leaf: with [@genekogan](https://genekogan.com/) _(:warning: [remote session](https://hslu.zoom.us/j/5610491768?pwd=WUZlWkRSZjdIWTh3N0FTZjlidEg2Zz09) :warning:)_
 
-#### Week 04: [Content](#) - [Slides](#)
+#### Week 04: Content ([part01](./content/week01.html) / [part02](./content/week02.html)) - Slides ([part01](./slides/week01.html) / [part02](./slides/week02.html))
++ Students intro
 + Intro: General 
 + ML / AI / DL: History & Example
++ Inner working of a Neural Network
 + Tools: Keras, TFJS, ML5JS, etc...
 
 #### Week 05: [Content](#) - [Slides](#)
-+ Students intro
-+ Inner working of a Neural Network
 + Training a NN: Intro to tools (Keras, ML5js, Paperspace)
-
-#### Week 06: [Content](#) - [Slides](#)
 + Machine Learning Project Checklist
 + Creating a dataset
-
-#### Week 07: [Content](#) - [Slides](#)
 + Machine Learning for computer vision (ConvNets)
 
-#### Week 08
-+ Testing RunwayML
-
-#### Week 09 [Content](#) - [Slides](#)
+#### Week 06: [Content](#) - [Slides](#)
 + Projects dicussion
 + Machine Learning for computer vision (ConvNets)
 + Generative models: LSTM, RNN
 
-#### Week 10
+#### Week 07: [Content](#) - [Slides](#)
++ Generative models: Deep Dream, Style Transfer, VAE, GAN.
 + Machine Learning Project Checklist
 + Remote GPU
 + Deploying your models
   + Runway API
   + Tensorflow.js
   + Python API
-
-#### Week 11 [Content](#) - [Slides](#)
-+ Generative models: Deep Dream, Style Transfer, VAE, GAN.
 
 
 ## Tools
