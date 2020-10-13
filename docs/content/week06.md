@@ -16,7 +16,7 @@ This week we will look at some interesting usage of Convolutional Neural Network
 
 ## Weekly task
 
-Run and discuss the notebooks in `ba_218_comppx_h1901/samples/notebooks`. We will do that part in class most likely.
+Run and discuss the notebooks in `comppx_h2001/samples/notebooks`. We will do that part in class most likely.
 
 ```
 ├── week04-05-image-search.ipynb

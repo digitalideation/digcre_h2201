@@ -18,11 +18,11 @@ This week will be mostly about planning and inspirations. We will go together th
 
 ## Weekly task
 
-Watch the [serie on RNN](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) from NOC2018 by the [Coding Train](http://thecodingtrain.com). You can skip the part about _'Perceptron'_ (10.2, 10.3) and _'Matrix Math'_ (10.6 ... 10.11). Some helpful links are available at [NOC2018 github page](https://github.com/shiffman/NOC-S18/tree/master/week9) and the source code for the toy NN can be downloaded [here](https://github.com/CodingTrain/Toy-Neural-Network-JS/) (slightly different than the one written in the video)
+Watch the [serie on NN](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) from NOC2018 by the [Coding Train](http://thecodingtrain.com). You can skip the part about _'Perceptron'_ (10.2, 10.3) and _'Matrix Math'_ (10.6 ... 10.11). Some helpful links are available at [NOC2018 github page](https://github.com/shiffman/NOC-S18/tree/master/week9) and the source code for the toy NN can be downloaded [here](https://github.com/CodingTrain/Toy-Neural-Network-JS/) (slightly different than the one written in the video)
 
 Next week we will play with the [XOR](https://www.youtube.com/watch?v=188B6k_F9jU), [Doodle](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ) and [Color predictor](https://www.youtube.com/watch?v=KtPpoMThKUs) examples. An online demo of the color predictor is available [here](https://editor.p5js.org/natureofcode/sketches/SkYS8WwjG) together with source code.
 
-The goal is to **start understanding how a simple NN work**. It's ok if some parts (even a lot) are unclear for now, we will go through some code example and play around with the toy NN built by Daniel Shiffman together next week. The example below are written in JS, similar examples written in Python are included in ['Going further'](#going-further) below.
+The goal is to **start understanding how a simple NN work**. It's ok if some parts (even a lot) are unclear for now, we will go through some code example and play around with the toy NN built by Daniel Shiffman together next week. Examples for this week are written in JS although similar examples written in Python are also included in the ['Going further'](#going-further) section below.
 
 You can also have a look at the proposed [tools](../#tools) and give them a try!
 
