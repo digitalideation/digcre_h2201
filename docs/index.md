@@ -39,11 +39,11 @@ Once we get a good grasp of the different techniques, we will experiment further
 + Inner working of a Neural Network
 + Tools: Keras, TFJS, ML5JS, etc...
 
-#### Week 05: [Content](#) - [Slides](#)
-+ Training a NN: Intro to tools (Keras, ML5js, Paperspace)
+#### Week 05: Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
 + Machine Learning Project Checklist
 + Creating a dataset
 + Machine Learning for computer vision (ConvNets)
++ Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
 #### Week 06: [Content](#) - [Slides](#)
 + Projects dicussion
