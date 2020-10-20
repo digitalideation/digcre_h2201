@@ -6,7 +6,7 @@ title: "Week 04"
 
 ## Intro
 
-This week we start looking into Convolutional Neural Networks (ConvNets or CNN). We will work with Keras and/or ML5js. Example with Wekinators and tfjs can be provided during next week session. 
+This week we start looking into Convolutional Neural Networks (ConvNets or CNN). We will work with Keras and/or ML5js. Example with ~~Wekinators~~ and tfjs can be provided during next week session. 
 
 
 ## Resources
@@ -23,11 +23,10 @@ This week we start looking into Convolutional Neural Networks (ConvNets or CNN).
 Read the articles above in [resources](#resources), and complete the 4 notebooks for week 04 in `comppx_h2001/samples/notebooks`:
 
 ```
-...
-├── week04-05-introduction-to-convnets.ipynb
-├── week04-06-using-convnets-with-small-datasets.ipynb
-├── week04-07-using-a-pretrained-convnet.ipynb
-└── week04-08-visualizing-what-convnets-learn.ipynb
+├── week04-01-introduction-to-convnets.ipynb
+├── week04-02-shape-example-cnn.ipynb
+├── week04-03-using-convnets-with-small-datasets.ipynb
+├── week04-04-using-a-pretrained-convnet.ipynb
 ```
 
 Those notebooks are taken from the book _Deep Learning with Python_, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
