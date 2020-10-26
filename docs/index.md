@@ -45,8 +45,9 @@ Once we get a good grasp of the different techniques, we will experiment further
 + Machine Learning for computer vision (ConvNets)
 + Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
-#### Week 06: [Content](#) - [Slides](#)
+#### Week 06: [Content](#./content/week06.html) - [Slides](./slides/week06.html)
 + Projects dicussion
++ ML5js
 + Machine Learning for computer vision (ConvNets)
 + Generative models: LSTM, RNN
 
