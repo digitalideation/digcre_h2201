@@ -51,9 +51,9 @@ Once we get a good grasp of the different techniques, we will experiment further
 + Machine Learning for computer vision (ConvNets)
 + Generative models: LSTM, RNN
 
-#### Week 07: [Content](#) - [Slides](#)
+#### Week 07: [Content](./content/week07.html) - [Slides](./slides/week07.html)
++ Datasets
 + Generative models: Deep Dream, Style Transfer, VAE, GAN.
-+ Machine Learning Project Checklist
 + Remote GPU
 + Deploying your models
   + Runway API
