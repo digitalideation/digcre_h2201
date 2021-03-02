@@ -10,6 +10,15 @@ title: "Main"
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/digideation)
 
 
+## Results :trophy:
+
+* [Maria, Karin, Simon](https://digitalideation.github.io/comppx_h2001/results/JourneytoMars.pdf)
+* [Vivien, Dennis](https://comppercaudio.vercel.app/)
+* [Luka, Dariush](https://github.com/Dariush-Mehdiaraghi/highway-sequencer)
+* [Lena, Domi](https://github.com/OblivionLS/Style-Transfer)
+* [Jonas](https://comppx.netlify.app/)
+
+
 ## Intro
 
 In this module we will explore different applications of ML/AI/DL with a particular focus on design and art. We will first learn how neural networks work with simple code examples, then we will experiment with different techniques of Deep Learning: 
