@@ -1,8 +1,3 @@
----
-layout: default
-title: "Main" 
----
-
 [★★★ This repository is published here ★★★](https://digitalideation.github.io/comppx_h2101/)
 
 # Computer Perception Extended - Winter 2021 
