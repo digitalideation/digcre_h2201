@@ -3,9 +3,6 @@ layout: default
 title: "Main" 
 ---
 
-![di logo](https://github.com/digitalideation/comppx_h2101/blob/master/assets/images/di-logo-small.png?raw=true "di logo")
-
-
 [★★★ This repository is published here ★★★](https://digitalideation.github.io/comppx_h2101/)
 
 # Computer Perception Extended - Winter 2021 
