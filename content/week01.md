@@ -16,7 +16,7 @@ This week will be mostly about planning and inspirations. We will go together th
 |1 h          | [Intro](#intro)                                |
 |10 mins      | Break                                          |
 |30 mins      | [Tools](#tools)                                |
-|15 mns       | [Preparation work](#preparatio-work)           |
+|15 mns       | [Preparation work](#preparation-work)          |
 |5 mns        | [Exit ticket](#exit-ticket)                    |
 
 
