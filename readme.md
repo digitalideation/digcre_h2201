@@ -29,6 +29,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### [Week 02](content/week02.md)
 
+* Looking back at the inner working of a NN
 * Intro to tools: Pytorch, ml5.js / tf.js
 * First steps with Pytorch
 * Building a simple classifier

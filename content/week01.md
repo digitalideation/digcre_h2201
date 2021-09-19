@@ -22,7 +22,7 @@ This week will be mostly about planning and inspirations. We will go together th
 ## Content
 
 * Intro - Me / Class
-    * [:tv: intro](https://digitalideation.github.io/digrcre_h2101/slides/intro_part01.html)
+    * [:tv: intro](https://digitalideation.github.io/digcre_h2101/slides/intro_part01.html)
     * Class
     * Philosophy
         * [Peer Learning](https://42.fr/en/what-is-42/the-42-method/)
