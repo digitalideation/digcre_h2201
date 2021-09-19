@@ -48,9 +48,9 @@ This week will be mostly about planning and inspirations. We will go together th
 
 ## Preparation work
 
-* Watch the [NN - Intro videos]((https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)) from 3blue1brown.
+* Watch the [NN - Intro videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) from 3blue1brown.
 * Complete the notebooks in _"Working with Notebooks in Colab"_ (in the section _"More Resources"_) from the [intro to colaboratory notebook](https://colab.research.google.com/notebooks/intro.ipynb)
-* Start [learning python the hard way](https://learnpythonthehardway.org/python3/)
+* Start [learning python the hard way](https://learnpythonthehardway.org/python3/), the full book is available in the [resource folder :books:](resources/LearnPython3theHardWay.pdf)
 * Read more about [the history of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 * Get [inspired](https://mlart.co/)!
 
