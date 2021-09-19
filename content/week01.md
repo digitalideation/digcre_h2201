@@ -11,38 +11,38 @@ This week will be mostly about planning and inspirations. We will go together th
 
 ## Schedule
 
-|Time         |Desc                                      |
-|---          |---                                       |
-|1 h          | Intro                                    |
-|10 mins      | Break                                    |
-|30 mins      | Tools                                    |
-|15 mns       | Preparation work                         |
+|Time         |Desc                                                         |
+|---          |---                                                          |
+|1 h          | Intro                                                       |
+|10 mins      | Break                                                       |
+|30 mins      | Tools                                                       |
+|15 mns       | Preparation work                                            |
+|5 mns        | [Exit ticket - week 01](https://forms.gle/Z73mDQNQo42JMy3L6)|
 
 
-## Content
+## Intro
 
-* Intro - Me / Class
+* Me / Class
     * [:tv: intro](https://digitalideation.github.io/digcre_h2101/slides/intro_part01.html)
     * Class
     * Philosophy
         * [Peer Learning](https://42.fr/en/what-is-42/the-42-method/)
         * [Three before me](https://practices.learningaccelerator.org/strategies/3-before-me)
         * Different levels -> Help others, produce content for the class.
-    * History
+    * [History](#going-further)
     * [Tools](#tools)
     * Relax VS Strict / Expectations
     * Produce content that can be shared
-* Intro - You
-    * Intro - You
-        * Questions / Expectations
-            * 1 sentence on post-it (Feelings / not tech)
-            * Research driven by questions
+* You
+    * Questions / Expectations
+        * Write down your questions / expectations
+        * Research driven by questions
     * Getting help
         * How to ask for help
         * Pair programming
-        * Code of conduct (OSS, etc...)
+        * [Code of conduct](https://digitalideation.github.io/digcre_h2101#academic-integrity) (OSS, etc...)
     * Giving feedback:
-        * Exit tickets: 3 Questions at the end of each class (Slack?)
+        * Exit ticket 3 Questions at the end of each class
         * Critique and Feedback: interactive
 
 
@@ -142,3 +142,10 @@ ML5.js is a simple **JavaScript** ML library for the web based on tensorflow.js.
 Magenta.js is a collection of **TypeScript** libraries for doing inference with pre-trained Magenta models. All libraries are published as npm packages.
 - [Demos](https://magenta.tensorflow.org/demos)
 - [Blog](https://magenta.tensorflow.org)
+
+
+## Exit ticket
+
+{% raw %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSem9i6FbFivHSJPD2_VOdnzahUVGYtXeNTwqR3gPqtyEt5fPg/viewform?embedded=true" width="100%" height="844" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
+{% endraw %}
