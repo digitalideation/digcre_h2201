@@ -16,8 +16,8 @@ This week will be mostly about planning and inspirations. We will go together th
 |1 h          | [Intro](#intro)                                |
 |10 mins      | Break                                          |
 |30 mins      | [Tools](#tools)                                |
-|15 mns       | [Preparation work](#preparation-work)          |
-|5 mns        | [Exit ticket](#exit-ticket)                    |
+|15 mins      | [Preparation work](#preparation-work)          |
+|5 mins       | [Exit ticket](#exit-ticket)                    |
 
 
 ## Intro
@@ -56,21 +56,21 @@ This week will be mostly about planning and inspirations. We will go together th
 
 The goal this week is to:
 
-1) Start understanding how a NN work 
+1) Start understanding how a NN work  
 2) get familiar with Colab and Python 
 
 
 ## Going further
 
-+ [History - Longer history of Machine Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
-+ [Math - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra)
-+ [Math - Linear Algebra CheatSheet](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
-+ [NN - Intro](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
-+ [NN - Visualisation](http://scs.ryerson.ca/~aharley/vis/fc/)
-+ [ML - Getting started](https://www.youtube.com/watch?v=I74ymkoNTnw)
-+ [NN - From scratch (Python)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
-+ [NN - From scratch (Python)](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
-+ [NN - From scratch (Processing)](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62)
+* [History - Longer history of Machine Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+* [Math - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra)
+* [Math - Linear Algebra CheatSheet](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+* [NN - Intro](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+* [NN - Visualisation](http://scs.ryerson.ca/~aharley/vis/fc/)
+* [ML - Getting started](https://www.youtube.com/watch?v=I74ymkoNTnw)
+* [NN - From scratch (Python)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+* [NN - From scratch (Python)](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+* [NN - From scratch (Processing)](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62)
 
 
 ## Tools
@@ -150,5 +150,5 @@ Magenta.js is a collection of **TypeScript** libraries for doing inference with 
 Use [this link](https://forms.gle/Z73mDQNQo42JMy3L6) if the form does not show up below :arrow_down:
 
 {% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSem9i6FbFivHSJPD2_VOdnzahUVGYtXeNTwqR3gPqtyEt5fPg/viewform?embedded=true" width="100%" height="844" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSem9i6FbFivHSJPD2_VOdnzahUVGYtXeNTwqR3gPqtyEt5fPg/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
 {% endraw %}
