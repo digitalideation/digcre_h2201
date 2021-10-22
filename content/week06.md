@@ -6,56 +6,78 @@ title: "Week 06"
 
 ## Intro
 
-This week we will: 
-+ Experiment with ML5js
-+ Look at some interesting usage of Convolutional Neural Networks (ConvNets or CNN) 
-+ Start learning about Reccurrent Neural Networks (RNN) in their different forms.
+This week we start looking into Convolutional Neural Networks (ConvNets or CNN). We will work with Keras and/or ML5js. Example with ~~Wekinators~~ and tfjs can be provided during next week session. 
 
 
-## Resources
+## Schedule
 
-+ [ML5 - Examples](https://ml5-fellowship-2020.github.io/examples/) (by [Andreas Refsgaard](https://github.com/AndreasRef))
-+ [ML5 - Playlist](https://www.youtube.com/watch?v=26uABexmOX4&feature=youtu.be&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
-+ [RNN - NYU](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/tree/main/07_rnn)
-+ [RNN - Intro from ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
-+ [RNN - Char RNN tf](https://github.com/sherjilozair/char-rnn-tensorflow)
+|Time         |Desc                                      |
+|---          |---                                       |
+|20 mins      | AI Autumn workshop - feedback / discuss  |
+|20 mins      | Intro to CNN                             |
+|20 mins      | Notebooks                                |
+|10 mins      | Break                                    |
+|40 mins      | Notebooks                                |
+|5 mins       | [Exit ticket](#exit-ticket)              |
 
-## Weekly task
 
-Run and discuss the notebooks in `digcre_h2101/samples/notebooks`. We will do that part in class most likely.
+## Content
 
-```
-├── 08-image-search.ipynb
-├── 09-image-tsne.ipynb
-├── 10-visualizing-what-convnets-learn.ipynb
-├── 11-image-path.ipynb
-...
-├── 12-one-hot-encoding-of-words-or-characters.ipynb
-├── 13-using-word-embeddings.ipynb
-├── 14-understanding-recurrent-neural-networks.ipynb
-├── 15-advanced-usage-of-recurrent-neural-networks.ipynb
-├── 16-text-generation-with-lstm.ipynb
-```
+* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2101/slides/week06.html)
+* Complete the notebooks for week 06 in `/samples` folder.
 
-Create a small experiment using a generative RNN. Some ideas:
+Notebooks are taken from the book _Deep Learning with Python_, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
 
-+ Music player 
-+ A platform game level
+Convnets are a cornerstone of Deeplearning and you are going to learn a few very useful techniques this week. Namely: _'data augmentation'_ and _'feature extraction'_ for _'transfer learning'_ . 
+
+
+## Preparation work
+
+Read the first 2 articles in [Going Further](#going-further), and complete the notebooks for week 06 in `/samples` folder.
+
+For _developers_ you should use a CNN to build a classifier of your choice (either trained from scratch or using a pre-trained model). You can follow the techniques detailed in the notebooks. You will find some examples of datasets in the section [going further/tools](#tools) on this page. For those of you who worked with the shape classifier with the toy NN it might be interesting to try to use CNN as a comparison (see the Kaggle dataset in [tools](#tools)). 
+
+Both _designers_ and _developers_ should start looking a bit more in details into their personal project (that we will start to work on after week 06) Which means:
+
+1. Make some research (models architecture, datasets, tutorials, blog posts, etc...), please __share__ your finding on Slack if you think they could help some teammates.
+2. For _designers_ you should start sketching some ideas either in the form of prototypes (high or low level), UI sketches, or even code experiment (P5, ML5).
+
+By __next week__ (week 07) you should:
+
+1. Have a __solid understanding__ of  Keras _(developers)_
+2. Be able to __train / retrain__ your own __CNN__ with Keras _(developers)_
+
 
 ## Going further
 
-+ [RNN - The Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) and [Visualizing and Understanding Recurrent Networks](https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks) by by Andrei Karpathy
-+ [RNN - Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
-+ [RNN - Music - Great article, simply explained, on how to 'compose' music with an RNN](https://maraoz.com/2016/02/02/abc-rnn/)
-+ [RNN - Music - Another great article, a bit more technical](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
-+ [RNN - Music - Magenta blog post](https://magenta.tensorflow.org/performance-rnn)
-+ [RNN - Music - Magenta demos](https://magenta.tensorflow.org/demos)
-+ [RNN - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
+### CNN 
 
-+ [RNN - ML5 ](https://ml5js.org/docs/training-lstm)
-+ [RNN - ML5 ](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js)
-+ [RNN - Text - adventures in narrated reality (part01)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
-+ [RNN - Text - adventures in narrated reality (part02)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-part-ii-dc585af054cb)
-+ [RNN - Text - generating stories](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
-+ [RNN - Text - Sentence space](https://www.robinsloan.com/voyages-in-sentence-space/)
-+ [RNN - Text - Word embedding library - Spacy]()
++ [CNN - Intro from ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
++ [CNN - An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
++ CNN - DL with Python - Chapter 5 (please refer to the link shared on Slack)
++ [CNN - Visualizing what ConvNets learn](https://cs231n.github.io/understanding-cnn/)
++ [CNN - Understanding convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
++ [CNN - Visualisation](http://scs.ryerson.ca/~aharley/vis/conv/flat.html)
++ [CNN - Visualisation Distill.pub 01](https://distill.pub/2017/feature-visualization/)
++ [CNN - Visualisation Distill.pub 02](https://distill.pub/2018/building-blocks/)
+
+### Tools 
+
++ [Datasets - Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
++ [Datasets - Misc datasets](https://www.kdnuggets.com/datasets/index.html)
++ [Datasets - Kaggle](https://www.kaggle.com/datasets)
++ [Datasets - Kaggle (shape classification)](https://www.kaggle.com/smeschke/four-shapes/home)
++ [JS ml5js - Classification](https://ml5js.org/docs/image-classification-example)
++ [JS ml5js - YOLO](https://ml5js.org/docs/yolo-webcam)
++ [JS tfjs - Tutorials](https://js.tensorflow.org/tutorials/)
++ [JS tfjs - Examples](https://github.com/tensorflow/tfjs-examples)
++ [JS tfjs - Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
+
+
+## Exit ticket
+
+Use [this link](https://docs.google.com/forms/d/e/1FAIpQLSd4HSpRoMsCCryiGjLxgD86joajca79vfhjH2bShMDjMe-0aQ/viewform?usp=sf_link) if the form does not show up below :arrow_down:
+
+{% raw %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4HSpRoMsCCryiGjLxgD86joajca79vfhjH2bShMDjMe-0aQ/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
+{% endraw %}

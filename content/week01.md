@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "Intro"
+title: "Week 01"
 ---
 
 
