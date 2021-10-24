@@ -33,7 +33,6 @@ Once we get a good grasp of the different techniques, we will experiment further
 * Intro to tools: Pytorch, ml5.js / tf.js
 * First steps with Pytorch
 * Building a simple classifier
-* Deploying a model
 
 ### Week 03
 
@@ -50,9 +49,9 @@ Once we get a good grasp of the different techniques, we will experiment further
 ### Week 06 Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
 
 * Machine Learning Project Checklist
-* Creating a dataset
+* ~~Creating a dataset~~
 * Machine Learning for computer vision (ConvNets)
-* Training a NN: Intro to tools (Keras, ML5js, Paperspace)
+* Training a NN: Intro to tools (Keras, ~~ML5.js, Paperspace~~)
 
 ### Week 07 [Content](./content/week06.html) - [Slides](./slides/week06.html)
 
