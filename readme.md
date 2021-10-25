@@ -46,7 +46,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 * HSLU AI Autumn session 03 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
 
-### Week 06 Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
+### [Week 06](content/week06.md)
 
 * Machine Learning Project Checklist
 * ~~Creating a dataset~~
