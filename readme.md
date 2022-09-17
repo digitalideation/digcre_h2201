@@ -36,15 +36,15 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 03
 
-* HSLU AI Autumn session 01 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
+* Hugging Face session 01 :hugging_face: with [Lewis Tunstall]...) _(:warning: [remote session](#) :warning:)_
 
 ### Week 04
 
-* HSLU AI Autumn session 02 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
+* Hugging Face session 02 :hugging_face: with [Lewis Tunstall]...) _(:warning: [remote session](#) :warning:)_
 
 ### Week 05
 
-* HSLU AI Autumn session 03 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
+* Image Generation
 
 ### [Week 06](content/week06.md)
 
