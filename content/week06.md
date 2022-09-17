@@ -23,7 +23,7 @@ This week we start looking into Convolutional Neural Networks (ConvNets or CNN).
 
 ## Content
 
-* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2101/slides/week06.html)
+* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2201/slides/week06.html)
 * Complete the notebooks for week 06 in `/samples` folder.
 
 Notebooks are taken from the book _Deep Learning with Python_, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
