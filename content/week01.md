@@ -143,12 +143,3 @@ ML5.js is a simple **JavaScript** ML library for the web based on tensorflow.js.
 Magenta.js is a collection of **TypeScript** libraries for doing inference with pre-trained Magenta models. All libraries are published as npm packages.
 - [Demos](https://magenta.tensorflow.org/demos)
 - [Blog](https://magenta.tensorflow.org)
-
-
-## Exit ticket
-
-Use [this link](https://forms.gle/Z73mDQNQo42JMy3L6) if the form does not show up below :arrow_down:
-
-{% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSem9i6FbFivHSJPD2_VOdnzahUVGYtXeNTwqR3gPqtyEt5fPg/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
-{% endraw %}

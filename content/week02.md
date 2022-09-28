@@ -51,8 +51,8 @@ The goal this week is to:
 
 ## Exit ticket
 
-Use [this link](https://docs.google.com/forms/d/e/1FAIpQLSd4HSpRoMsCCryiGjLxgD86joajca79vfhjH2bShMDjMe-0aQ/viewform?usp=sf_link) if the form does not show up below :arrow_down:
+Use [this link](https://docs.google.com/forms/d/e/1FAIpQLSeFiGYdLv5xXbV2NkT5ike4ji6lqTgQrlnR2mABsxBndPzGxA/viewform?usp=sf_link) if the form does not show up below :arrow_down:
 
 {% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4HSpRoMsCCryiGjLxgD86joajca79vfhjH2bShMDjMe-0aQ/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFiGYdLv5xXbV2NkT5ike4ji6lqTgQrlnR2mABsxBndPzGxA/viewform?embedded=true" width="100%" height="844" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
 {% endraw %}

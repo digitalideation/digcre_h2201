@@ -23,7 +23,7 @@ This week we start looking into Convolutional Neural Networks (ConvNets or CNN).
 
 ## Content
 
-* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2201/slides/week06.html)
+* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2201/slides/week04.html)
 * Complete the notebooks for week 06 in `/samples` folder.
 
 Notebooks are taken from the book _Deep Learning with Python_, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
@@ -72,12 +72,3 @@ By __next week__ (week 07) you should:
 + [JS tfjs - Tutorials](https://js.tensorflow.org/tutorials/)
 + [JS tfjs - Examples](https://github.com/tensorflow/tfjs-examples)
 + [JS tfjs - Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
-
-
-## Exit ticket
-
-Use [this link](https://docs.google.com/forms/d/e/1FAIpQLSfHMKSisFqmggRahi_IE4e5PCMdMJSoXA1_noQJzne3qBxTug/viewform?usp=sf_link) if the form does not show up below :arrow_down:
-
-{% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfHMKSisFqmggRahi_IE4e5PCMdMJSoXA1_noQJzne3qBxTug/viewform?embedded=true" width="100%" height="1153" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
-{% endraw %}

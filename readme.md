@@ -30,30 +30,29 @@ Once we get a good grasp of the different techniques, we will experiment further
 ### [Week 02](content/week02.md)
 
 * Looking back at the inner working of a NN
-* Intro to tools: Pytorch, ml5.js / tf.js
+* Intro to tools: TF, Pytorch
 * First steps with Pytorch
 * Building a simple classifier
 
 ### Week 03
 
-* Hugging Face session 01 :hugging_face: with [Lewis Tunstall]...) _(:warning: [remote session](#) :warning:)_
+* Hugging Face session 01 :hugging_face: with [Lewis Tunstall](https://twitter.com/_lewtun) _(:warning: [remote session](#) :warning:)_
+  * NLP
+  * HuggingFace API
 
-### Week 04
-
-* Hugging Face session 02 :hugging_face: with [Lewis Tunstall]...) _(:warning: [remote session](#) :warning:)_
-
-### Week 05
-
-* Image Generation
-
-### [Week 06](content/week06.md)
+### [Week 04](content/week04.md)
 
 * Machine Learning Project Checklist
 * ~~Creating a dataset~~
 * Machine Learning for computer vision (ConvNets)
 * Training a NN: Intro to tools (Keras, ~~ML5.js, Paperspace~~)
 
-### Week 07
+### Week 05
+
+* Hugging Face session 02 :hugging_face: with [Lewis Tunstall](https://twitter.com/_lewtun) _(:warning: [remote session](#) :warning:)_
+  * Image generation
+
+### Week 06
 
 + Project discussions 
 + Personal research
