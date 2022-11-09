@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "Week 06" 
+title: "Week 08" 
 ---
 
 
@@ -13,12 +13,11 @@ This week we start looking into Convolutional Neural Networks (ConvNets or CNN).
 
 |Time         |Desc                                      |
 |---          |---                                       |
-|20 mins      | AI Autumn workshop - feedback / discuss  |
+|20 mins      | General /  feedback / discuss            |
 |20 mins      | Intro to CNN                             |
 |20 mins      | Notebooks                                |
 |10 mins      | Break                                    |
 |40 mins      | Notebooks                                |
-|5 mins       | [Exit ticket](#exit-ticket)              |
 
 
 ## Content

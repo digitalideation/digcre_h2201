@@ -54,30 +54,22 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 06
 
-+ Project discussions 
-+ Personal research
++ Meetup in Rotkreuz :triangular_flag_on_post:
++ Project presentation + discussions 
 
-### Week 08
+### Week 07
 
-* Projects dicussion
++ Project discussions, going through the missing projects
++ Misc. inputs
+
+### [Week 08](content/week08.md)
+
+* Q&A
 * Machine Learning for computer vision (ConvNets)
 
-### Week 09 
+### Week 09
 
-* Projects dicussion
-* ML5js
-* Machine Learning for computer vision (ConvNets)
-* Generative models: LSTM, RNN
-
-### Week 10 
-
-* Datasets
-* Generative models: Deep Dream, Style Transfer, VAE, GAN.
-* Remote GPU
-* Deploying your models
-  * Runway API
-  * Tensorflow.js
-  * Python API
+TBA
 
 ## Evaluation
 
